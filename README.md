@@ -30,10 +30,10 @@ Soul Space provides a safe digital environment where users can express emotions,
 
 ### 🔹 Dashboard View
 
-![Dashboard 1](./screenshots/dashboard1.png)
-![Dashboard 2](./screenshots/dashboard2.png)
-![Dashboard 3](./screenshots/dashboard3.png)
-
+![Dashboard 1](s1.png)
+![Dashboard 2](s2.png)
+![Dashboard 3](s3.png)
+![Dashboard 4](s4.png)
 ---
 
 ## 🚀 Run & Deployment
