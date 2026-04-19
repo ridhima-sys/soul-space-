@@ -87,6 +87,8 @@ vibe-relief-chat-main/
 **Ridhima Sharma**  
 B.Tech Student | Web Development & Cybersecurity Enthusiast
 
+**Kasak Pandita**  
+B.Tech Student | Web Development & Cybersecurity Enthusiast
 
 
 ## 🌸 Purpose
